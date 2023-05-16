@@ -10,7 +10,8 @@
    * [Zero](#zero)
 
 ## Data Science
-- [U.S. Crime analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
+- [U.S. Crime Analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
+- [Reddit Analytics using Hadoop Ecosystem (GitHub)](https://github.com/abdelazizrashed/reddit-analytics.git "@embed") (A big data project)
 
 ## Mobile App Development
 - ### Caramellez
