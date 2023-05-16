@@ -10,7 +10,7 @@
    * [Zero](#zero)
 
 ## Data Science
-- [U.S. Crime analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics, "@embed")
+- [U.S. Crime analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
 
 ## Mobile App Development
 - ### Caramellez
