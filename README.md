@@ -18,7 +18,7 @@
 
 ## Artificial Intellgience
 
-### Computer Vision (CV)
+### Computer Vision
 - [Scene Recognition](https://github.com/abdelazizrashed/scene-recognition.git "@embed")
 
 ## Mobile App Development
