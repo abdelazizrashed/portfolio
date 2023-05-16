@@ -1,6 +1,8 @@
 # Portfolio
 
  - [Data Science](#data-science)
+ - [Artificial Intellgience](#artificial_intellgience)
+   * [Computer Vision](#computer_vision)
  - [Mobile App Development](#mobile-app-development)
    * [Caramellez](#caramellez)
    * [Ubra](#ubra)
@@ -12,6 +14,12 @@
 ## Data Science
 - [U.S. Crime Analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
 - [Reddit Analytics using Hadoop Ecosystem (GitHub)](https://github.com/abdelazizrashed/reddit-analytics.git "@embed") (A big data project)
+- [Leage of Legends (LOL) Analytics using Apache Spark](https://github.com/abdelazizrashed/LOL-Analytics.git "@embed") (A big data project)
+
+## Artificial Intellgience
+
+### Computer Vision (CV)
+- [Scene Recognition](https://github.com/abdelazizrashed/scene-recognition.git "@embed")
 
 ## Mobile App Development
 - ### Caramellez
