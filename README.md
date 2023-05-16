@@ -3,6 +3,7 @@
  - [Data Science](#data-science)
  - [Artificial Intellgience](#artificial-intellgience)
    * [Computer Vision](#computer-vision)
+   * [Algorithmic AI](#algorithmic-ai)
  - [Web Development](#web-development)
    * [Abdelaziz Rashed Personal Website](#abdelaziz-rashed-personal-website)
    * [Time Manager API](#time-manager-api)
@@ -23,6 +24,10 @@
 
 ### Computer Vision
 - [Scene Recognition](https://github.com/abdelazizrashed/scene-recognition.git "@embed")
+
+### Algorithmic AI
+- [Pacman Multiagen Search](https://github.com/abdelazizrashed/pacman-multiagent-search.git "@embed")
+- [Reinforcement Learning](https://github.com/abdelazizrashed/reinforcement-learning.git "@embed")
 
 ## Web Development
 
