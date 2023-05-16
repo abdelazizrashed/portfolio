@@ -14,6 +14,7 @@
    * [uLink](#ulink)
    * [Makka](#makka)
    * [Zero](#zero)
+- [Game Development](#game_development)
 
 ## Data Science
 - [U.S. Crime Analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
@@ -47,6 +48,9 @@
   
   <img width=100 src="https://play-lh.googleusercontent.com/b894haWCG51pohVkQI1wDZvvDpDPFGFZWKWLCXuZrnYeRpYB1kFE28PNTBqsOFPrRA=w480-h960-rw">
   
+   Stack:
+   - Flutter
+  
   #### A fashion store for women in the middle east.
   #### Download Caramellez
 
@@ -57,6 +61,9 @@
 - ### Ubra
   
   <img width=100 src="https://play-lh.googleusercontent.com/bXwbxiwhOi9QXLPEpxSXpkd_JQoxlJQiTiEZrcc6hQcD8DMNancsG87NlVUy793xt4I=w480-h960-rw">
+ 
+   Stack:
+   - Flutter
   
   #### A ride sharing app for women.
   #### Download Ubra (Client app)
@@ -74,6 +81,9 @@
 - ### Midiyna
     
     <img width=100 src="https://play-lh.googleusercontent.com/u47898avW1IqDoaI77115-ba1Mh2OfzMwKNZsIN1uw878ctAcLi5Ju0_a_uycC1Dklqh=w480-h960-rw">
+   
+   Stack:
+   - Flutter
     
   #### An application to manage secuirty.
   #### Download Midiyna
@@ -86,6 +96,9 @@
 - ### uLink
     
     <img width=100 src="https://play-lh.googleusercontent.com/Sti17YOzx0ktX7o1esMGRHyOKijpfTJnuKM-aSrZLNWAxgGOnM3ipDdVXhBNsohNJw=w480-h960-rw">
+   
+   Stack:
+   - Flutter
     
   #### Services locator on map.
   #### Download uLink
@@ -97,6 +110,9 @@
 - ### Makka
     
     <img width=100 src="http://makka-dp.com/images/logo.png">
+   
+   Stack:
+   - Flutter
     
   #### An application to manage secuirty.
   #### Download Makka
@@ -108,6 +124,9 @@
 - ### Zero
     
     <img width=100 src="https://play-lh.googleusercontent.com/9uGP1-IoQeqmYzJP-91lP5GLBTiiv2WXE434TS3SrWKPhkSicV6uxwMBR4sfq-CYALY=w480-h960-rw">
+   
+   Stack:
+   - Flutter
     
   #### A suite of services that include online store and a ride sharing service.
   #### Download Zero Store
@@ -128,3 +147,31 @@
   | --- |
   <a href='https://play.google.com/store/apps/details?id=com.zero_driver.perfect'><img width=200 alt='Get Zero Car on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/> | 
   
+## Game Development
+   - AR Glasses Shop
+   
+     Stack: 
+     - Unity 3D
+   
+     [Demo Video](https://drive.google.com/file/d/1jyeDrRNFMceoMGisVtTctBSbTCd57HVs/view?usp=sharing "@embed")
+   - Wood Workshop
+   
+     A VR classroom for students with disabilities to learn how to operate the workshop machines without the risk of injury  
+   
+     Stack: 
+     - Unity 3D
+   
+     [Demo Video](https://drive.google.com/file/d/15Ahu7015MsPoxK6ChGf020HTZs9vt1Dd/view?usp=sharing "@embed")
+   - Time Manager
+     
+     Stack:
+     - Flask
+     - Unit 3D
+     
+     [Demo Video](https://drive.google.com/file/d/1V4WecUS-vST7SS3rXw92GdQA03WC4gid/view?usp=sharing "@embed")
+   
+   - Maze Runner
+   
+     Stack:
+     - Unity 3D
+     [Demo Video](https://drive.google.com/file/d/1MEze2CuoHseseaKs-lSr0mICRF_boEfd/view?usp=sharing "@embed")
