@@ -1,8 +1,8 @@
 # Portfolio
 
  - [Data Science](#data-science)
- - [Artificial Intellgience](#artificial_intellgience)
-   * [Computer Vision](#computer_vision)
+ - [Artificial Intellgience](#artificial-intellgience)
+   * [Computer Vision](#computer-vision)
  - [Mobile App Development](#mobile-app-development)
    * [Caramellez](#caramellez)
    * [Ubra](#ubra)
