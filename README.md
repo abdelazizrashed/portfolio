@@ -5,7 +5,7 @@
    * [Computer Vision](#computer-vision)
  - [Web Development](#web-development)
    * [Abdelaziz Rashed Personal Website](#abdelaziz-rashed-personal-website)
-   * [Time Manager API](#time-anager-api)
+   * [Time Manager API](#time-manager-api)
  - [Mobile App Development](#mobile-app-development)
    * [Caramellez](#caramellez)
    * [Ubra](#ubra)
