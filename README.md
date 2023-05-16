@@ -14,7 +14,7 @@
    * [uLink](#ulink)
    * [Makka](#makka)
    * [Zero](#zero)
-- [Game Development](#game_development)
+- [Game Development](#game-development)
 
 ## Data Science
 - [U.S. Crime Analytics (GitHub)](https://github.com/abdelazizrashed/crime-analytics "@embed")
