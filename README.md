@@ -3,6 +3,9 @@
  - [Data Science](#data-science)
  - [Artificial Intellgience](#artificial-intellgience)
    * [Computer Vision](#computer-vision)
+ - [Web Development](#web-development)
+   * [Abdelaziz Rashed Personal Website](#abdelaziz-rashed-personal-website)
+   * [Time Manager API](#time-anager-api)
  - [Mobile App Development](#mobile-app-development)
    * [Caramellez](#caramellez)
    * [Ubra](#ubra)
@@ -20,6 +23,19 @@
 
 ### Computer Vision
 - [Scene Recognition](https://github.com/abdelazizrashed/scene-recognition.git "@embed")
+
+## Web Development
+
+### [Abdelaziz Rashed Personal Website](https://github.com/abdelazizrashed/Abdelaziz-Rashed-PW.git "@embed")
+  
+  Tech Stack:
+  - Flask
+  - React.js
+### [Time Manager API](https://github.com/abdelazizrashed/Time-Manager-API.git "@embed")
+
+  Tech Stack:
+  - Flask
+  - Unity 3D
 
 ## Mobile App Development
 - ### Caramellez
